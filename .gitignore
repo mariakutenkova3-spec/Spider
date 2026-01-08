@@ -1,0 +1,8 @@
+# Arduino
+*.hex
+*.bin
+build-*/
+libraries/
+.pio/
+# IDE
+Arduino/
